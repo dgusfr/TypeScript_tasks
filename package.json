@@ -1,7 +1,6 @@
 {
   "author": {
-    "name": "Emerson Laranja",
-    "github": "EmersonLaranja"
+    "name": "Emerson Laranja"
   },
   "description": "Projeto Node.js com TypeScript aplicando padrões de projeto",
   "engines": {
