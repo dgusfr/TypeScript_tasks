@@ -16,7 +16,7 @@ Aplicação para gerenciamento de tarefas utilizando Node.js com TypeScript, seg
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/ts.png" alt="Logo TypeScript" width="100"/>
+    <img src="images/ts.png" alt="Logo TypeScript" width="100"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
     <img src="img/node.png" alt="Logo Node.js" width="100"/>
